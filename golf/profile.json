@@ -1,0 +1,86 @@
+{
+    "Putter": {
+        "Teebox": {"distance": 30, "horizontal_std": 2, "vertical_std": 1},
+        "Fairway": {"distance": 10, "horizontal_std": 3, "vertical_std": 2},
+        "Rough": {"distance": 10, "horizontal_std": 5, "vertical_std": 3},
+        "Bunker": {"distance": 5, "horizontal_std": 7, "vertical_std": 5}
+    },
+    "Sand Wedge": {
+        "Teebox": {"distance": 60, "horizontal_std": 8, "vertical_std": 5},
+        "Fairway": {"distance": 55, "horizontal_std": 9, "vertical_std": 6},
+        "Rough": {"distance": 50, "horizontal_std": 10, "vertical_std": 7},
+        "Bunker": {"distance": 50, "horizontal_std": 7, "vertical_std": 8}
+    },
+    "Lob Wedge": {
+        "Teebox": {"distance": 80, "horizontal_std": 7, "vertical_std": 4},
+        "Fairway": {"distance": 75, "horizontal_std": 8, "vertical_std": 5},
+        "Rough": {"distance": 70, "horizontal_std": 9, "vertical_std": 6},
+        "Bunker": {"distance": 40, "horizontal_std": 14, "vertical_std": 10}
+    },
+    "Gap Wedge": {
+        "Teebox": {"distance": 100, "horizontal_std": 9, "vertical_std": 6},
+        "Fairway": {"distance": 95, "horizontal_std": 10, "vertical_std": 7},
+        "Rough": {"distance": 90, "horizontal_std": 12, "vertical_std": 8},
+        "Bunker": {"distance": 50, "horizontal_std": 17, "vertical_std": 13}
+    },
+    "Pitching Wedge": {
+        "Teebox": {"distance": 110, "horizontal_std": 10, "vertical_std": 7},
+        "Fairway": {"distance": 105, "horizontal_std": 11, "vertical_std": 8},
+        "Rough": {"distance": 100, "horizontal_std": 13, "vertical_std": 9},
+        "Bunker": {"distance": 55, "horizontal_std": 20, "vertical_std": 17}
+    },
+    "9 Iron": {
+        "Teebox": {"distance": 120, "horizontal_std": 25, "vertical_std": 20},
+        "Fairway": {"distance": 115, "horizontal_std": 26, "vertical_std": 21},
+        "Rough": {"distance": 110, "horizontal_std": 28, "vertical_std": 22},
+        "Bunker": {"distance": 60, "horizontal_std": 40, "vertical_std": 50}
+    },
+    "8 Iron": {
+        "Teebox": {"distance": 135, "horizontal_std": 25, "vertical_std": 20},
+        "Fairway": {"distance": 130, "horizontal_std": 26, "vertical_std": 21},
+        "Rough": {"distance": 125, "horizontal_std": 28, "vertical_std": 22},
+        "Bunker": {"distance": 55, "horizontal_std": 45, "vertical_std": 35}
+    },
+    "7 Iron": {
+        "Teebox": {"distance": 140, "horizontal_std": 18, "vertical_std": 15},
+        "Fairway": {"distance": 135, "horizontal_std": 20, "vertical_std": 17},
+        "Rough": {"distance": 130, "horizontal_std": 22, "vertical_std": 19},
+        "Bunker": {"distance": 57, "horizontal_std": 45, "vertical_std": 39}
+    },
+    "6 Iron": {
+        "Teebox": {"distance": 150, "horizontal_std": 30, "vertical_std": 25},
+        "Fairway": {"distance": 145, "horizontal_std": 32, "vertical_std": 27},
+        "Rough": {"distance": 130, "horizontal_std": 44, "vertical_std": 29},
+        "Bunker": {"distance": 58, "horizontal_std": 50, "vertical_std": 50}
+    },
+    "5 Iron": {
+        "Teebox": {"distance": 160, "horizontal_std": 30, "vertical_std": 25},
+        "Fairway": {"distance": 155, "horizontal_std": 32, "vertical_std": 27},
+        "Rough": {"distance": 130, "horizontal_std": 54, "vertical_std": 29},
+        "Bunker": {"distance": 60, "horizontal_std": 50, "vertical_std": 55}
+    },
+    "4 Iron": {
+        "Teebox": {"distance": 170, "horizontal_std": 30, "vertical_std": 25},
+        "Fairway": {"distance": 165, "horizontal_std": 32, "vertical_std": 27},
+        "Rough": {"distance": 130, "horizontal_std": 64, "vertical_std": 39},
+        "Bunker": {"distance": 75, "horizontal_std": 55, "vertical_std": 55}
+    },
+    "3 Iron": {
+        "Teebox": {"distance": 180, "horizontal_std": 30, "vertical_std": 30},
+        "Fairway": {"distance": 175, "horizontal_std": 32, "vertical_std": 32},
+        "Rough": {"distance": 140, "horizontal_std": 74, "vertical_std": 44},
+        "Bunker": {"distance": 60, "horizontal_std": 55, "vertical_std": 60}
+    },
+    "3 Wood": {
+        "Teebox": {"distance": 210, "horizontal_std": 55, "vertical_std": 35},
+        "Fairway": {"distance": 200, "horizontal_std": 60, "vertical_std": 40},
+        "Rough": {"distance": 120, "horizontal_std": 100, "vertical_std": 50},
+        "Bunker": {"distance": 30, "horizontal_std": 55, "vertical_std": 50}
+    },
+    "Driver": {
+        "Teebox": {"distance": 260, "horizontal_std": 75, "vertical_std": 55},
+        "Fairway": {"distance": 140, "horizontal_std": 100, "vertical_std": 95},
+        "Rough": {"distance": 100, "horizontal_std": 120, "vertical_std": 50},
+        "Bunker": {"distance": 15, "horizontal_std": 55, "vertical_std": 30}
+    }
+}

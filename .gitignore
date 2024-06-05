@@ -1,0 +1,4 @@
+.DS_Store
+
+# ignore the rl/ppo_golf.zip file
+./rl/ppo_golf.zip
